@@ -1,1 +1,1 @@
-hi im a degen
+degen (3,3)
